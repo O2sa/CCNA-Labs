@@ -32,18 +32,12 @@ Photo From Lab
 Router Commands
  [<a href="labs\RouterCommands.pkt" target="_blank">The Lab</a>]
 </summary>
-<details>
-<summary>
-Topic Summary:
 
-</summary>
- 
- ![](imgs/RouterCommands.png)
 
-</details>
 <br>
 
 Photo From Lab
+![](imgs/RouterCommands.png)
 
 </details>
 <details>
@@ -186,17 +180,13 @@ Photo From Lab
 </details>
 <details>
 <summary>
-Sceure Switch From Mac Flooding(Stiky) [<a href="labs\SceureSwitchFromMacFlooding(Stiky).pkt" target="_blank">The Lab</a>]
-</summary>
-<details>
-<summary>
-
+Secure Switch From Mac Flooding(Stiky) [<a href="labs\SceureSwitchFromMacFlooding(Stiky).pkt" target="_blank">The Lab</a>]
 </summary>
 
-</details>
 <br>
 
 Photo From Lab
+
 ![](imgs/SecureSwitch(Stiky).png)
 
 </details>
@@ -265,13 +255,14 @@ Traditional Inter VLAN Routing
 Topic Summary:
 
 </summary>
+![](labs-summaries/inter-vlan-routing-traditional.jpeg)
 
-![](labs-summaries/inter-vlan-routing(traditional.jpeg)
 
 </details>
 <br>
 
 Photo From Lab
+
 ![](imgs/Inter-VLAN-Routing(Traditional).png)
 
 </details>
@@ -377,6 +368,7 @@ Recover Router's Password
 Topic Summary:
 
 </summary>
+
 ![](labs-summaries/recoveringRouterPassword.jpeg)
 
 </details>
@@ -468,7 +460,8 @@ Frame Relay Protocol(WAN)
 <br>
 
 Photo From Lab
-![](imgs/Frame-Relay-Protocol(WAN)).png)
+
+![](imgs/Frame-Relay-Protocol(WAN).png)
 
 </details><details>
 <summary>
