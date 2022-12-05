@@ -1,6 +1,7 @@
 # CCNA Practice Labs
 
-I studied this course with <a href="http://www.halmalki.net/" target="_blank">eng.Hussian Almalki</a>.
+I studied this course with <a href="https://www.youtube.com/playlist?list=PLE451B5C4C5D5AA94" target="_blank">eng.Hussian Almalki</a>.
+
 
 `Here are a few tips to get you started:`
 
