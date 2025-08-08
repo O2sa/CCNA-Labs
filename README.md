@@ -7,7 +7,7 @@ I studied this course with <a href="https://www.youtube.com/playlist?list=PLE451
 
 - In this **document** you will see small description, capture and link for every **lab**.
 
-- In labs you can see the structure and used commands.
+- In every lab you will see the network diagram and a list of the commands.
 
 <details>
 <summary>
